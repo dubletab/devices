@@ -1,6 +1,6 @@
 https://dubletab.github.io/devices/  - демо Дашборда.
 
-https://github.com/dubletab/reactDevices - реализация дашборда на ReactJS с динамическим построение структуры.
+https://github.com/dubletab/reactDevices - реализация дашборда на ReactJS с динамическим построением структуры.
 
 Данный дашборд выводит аптайм и состояние Сервисов (вкл\выкл), а также устройств, на которых эти сервисы запущены.
 
